@@ -2,7 +2,9 @@
 
 png editing, viewing and conversion software that supports the third version of the png Third Edition
 
-Coding......
+Will Support for macos（V1.0）、Windows（V2.0）、Android（V3.0）....
+
+Still Coding......
 
 Core Function List 
 
